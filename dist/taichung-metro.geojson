@@ -1,0 +1,419 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70864,
+                    24.18913
+                ]
+            },
+            "properties": {
+                "車站編號": "103a",
+                "中文站名": "北屯總站",
+                "英譯站名": "Beitun Main Station",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市北屯區敦富東街100號",
+                "緯度": 24.18913,
+                "經度": 120.70864,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70729,
+                    24.18228
+                ]
+            },
+            "properties": {
+                "車站編號": "103",
+                "中文站名": "舊社",
+                "英譯站名": "Jiushe",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市北屯區松竹路一段1250號",
+                "緯度": 24.18228,
+                "經度": 120.70729,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70145,
+                    24.1808
+                ]
+            },
+            "properties": {
+                "車站編號": "104",
+                "中文站名": "松竹",
+                "英譯站名": "Songzhu",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市北屯區北屯路458號",
+                "緯度": 24.1808,
+                "經度": 120.70145,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69329,
+                    24.17124
+                ]
+            },
+            "properties": {
+                "車站編號": "105",
+                "中文站名": "四維國小",
+                "英譯站名": "Sihwei Elementary School",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市北屯區文心路四段 898號",
+                "緯度": 24.17124,
+                "經度": 120.69329,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68486,
+                    24.17219
+                ]
+            },
+            "properties": {
+                "車站編號": "106",
+                "中文站名": "文心崇德",
+                "英譯站名": "Wenxin Chongde",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市北屯區文心路四段 538 號",
+                "緯度": 24.17219,
+                "經度": 120.68486,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67059,
+                    24.17368
+                ]
+            },
+            "properties": {
+                "車站編號": "107",
+                "中文站名": "文心中清",
+                "英譯站名": "Wenxin Zhongqing",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市北區文心路三段700號",
+                "緯度": 24.17368,
+                "經度": 120.67059,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.66045,
+                    24.17141
+                ]
+            },
+            "properties": {
+                "車站編號": "108",
+                "中文站名": "文華高中",
+                "英譯站名": "Wenhua Senior High School",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市西屯區文心路三段199號",
+                "緯度": 24.17141,
+                "經度": 120.66045,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65367,
+                    24.16763
+                ]
+            },
+            "properties": {
+                "車站編號": "109",
+                "中文站名": "文心櫻花",
+                "英譯站名": "Wenxin Yinghua",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市西屯區文心路三段107之28號",
+                "緯度": 24.16763,
+                "經度": 120.65367,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64903,
+                    24.16199
+                ]
+            },
+            "properties": {
+                "車站編號": "110",
+                "中文站名": "市政府",
+                "英譯站名": "Taichung City Hall",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市西屯區文心路二段688號、699號",
+                "緯度": 24.16199,
+                "經度": 120.64903,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64668,
+                    24.15311
+                ]
+            },
+            "properties": {
+                "車站編號": "111",
+                "中文站名": "水安宮",
+                "英譯站名": "Shui-an Temple",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市南屯區文心路一段519號",
+                "緯度": 24.15311,
+                "經度": 120.64668,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6466,
+                    24.1454
+                ]
+            },
+            "properties": {
+                "車站編號": "112",
+                "中文站名": "文心森林公園",
+                "英譯站名": "Wenxin Forest Park",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市南屯區文心路一段259號",
+                "緯度": 24.1454,
+                "經度": 120.6466,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6466,
+                    24.1405
+                ]
+            },
+            "properties": {
+                "車站編號": "113",
+                "中文站名": "南屯",
+                "英譯站名": "Nantun",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市南屯區五權西路二段328號",
+                "緯度": 24.1405,
+                "經度": 120.6466,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64635,
+                    24.1326
+                ]
+            },
+            "properties": {
+                "車站編號": "114",
+                "中文站名": "豐樂公園",
+                "英譯站名": "Feng-le Park",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市南屯區文心南路168號",
+                "緯度": 24.1326,
+                "經度": 120.64635,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6476,
+                    24.1191
+                ]
+            },
+            "properties": {
+                "車站編號": "115",
+                "中文站名": "大慶",
+                "英譯站名": "Daqing",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市南區建國北路一段11號",
+                "緯度": 24.1191,
+                "經度": 120.6476,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6401,
+                    24.1145
+                ]
+            },
+            "properties": {
+                "車站編號": "116",
+                "中文站名": "九張犁",
+                "英譯站名": "Jiuzhangli",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市烏日區建國路915號",
+                "緯度": 24.1145,
+                "經度": 120.6401,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63448,
+                    24.11104
+                ]
+            },
+            "properties": {
+                "車站編號": "117",
+                "中文站名": "九德",
+                "英譯站名": "Jiude",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市烏日區建國路639號",
+                "緯度": 24.11104,
+                "經度": 120.63448,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6249,
+                    24.1089
+                ]
+            },
+            "properties": {
+                "車站編號": "118",
+                "中文站名": "烏日",
+                "英譯站名": "Wuri",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市烏日區建國路295號",
+                "緯度": 24.1089,
+                "經度": 120.6249,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61405,
+                    24.11011
+                ]
+            },
+            "properties": {
+                "車站編號": "119",
+                "中文站名": "高鐵臺中站",
+                "英譯站名": "HSR Taichung Station",
+                "路線編號": "1",
+                "路線名": "烏日文心北屯線",
+                "地址": "臺中市烏日區高鐵東一路28號",
+                "緯度": 24.11011,
+                "經度": 120.61405,
+                "marker-size": "medium",
+                "marker-symbol": "rail-metro",
+                "marker-color": "#84BD00"
+            }
+        }
+    ]
+}
