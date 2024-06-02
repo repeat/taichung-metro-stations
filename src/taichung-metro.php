@@ -1,9 +1,9 @@
 <?php
 
-$line_file = __DIR__ . '/../ref/line.json';
+$line_file = __DIR__ . '/../ref/line-TMRT.json';
 $line_source = json_decode(file_get_contents($line_file, true), true)[0];
 
-$stations_file = __DIR__ . '/../ref/stations.json';
+$stations_file = __DIR__ . '/../ref/station-TMRT.json';
 $stations_source = json_decode(file_get_contents($stations_file, true), true);
 
 // 整理資料
